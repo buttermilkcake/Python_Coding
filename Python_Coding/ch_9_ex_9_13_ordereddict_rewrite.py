@@ -9,4 +9,3 @@ glossary['tuple'] = 'an immutable list'
 
 for word, definition in glossary.items():
     print("A " + word + " is a " + definition + ".")
-      
