@@ -9,5 +9,3 @@ for name, numbers in favorite_numbers.items():
     print("\n" + name.title() + "'s favorite numbers are:")
     for number in numbers:
         print("\t" + number)
-
-

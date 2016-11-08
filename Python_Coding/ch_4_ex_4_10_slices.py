@@ -11,4 +11,3 @@ for flower in flowers[1:4]:
 print("The last three flowers on the list are:")
 for flower in flowers[-3:]:
     print(flower)
-
