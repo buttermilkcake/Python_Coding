@@ -1,6 +1,6 @@
 # Python_Coding
 
-These are my Python coding examples from the book, "Python Crash Course" By Eric Matthes, which I started using in January of 2016. This book is divided into two parts; the first part covers Python programming basics and the second part covers 3 projects. These are examples from the first part of the book which breaks down like this:
+These are some of the Python coding exercises I did from the book, "Python Crash Course" By Eric Matthes, which I started using in January of 2016. This book is divided into two parts; the first part covers Python programming basics and the second part covers 3 projects. These are exercises from the first part of the book which breaks down like this:
 
 Ch. 1 -  Basics
 
